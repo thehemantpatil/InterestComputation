@@ -74,6 +74,6 @@
 <br>
 
 <hr>
-	<h3 style = "text-align:center">Thanks</h3>
+	<h3 align = "center" >Thanks</h3>
 <hr>
 
